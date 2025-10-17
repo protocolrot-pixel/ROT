@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/TU-USUARIO/rotpaper/blob/main/Rotlogo.png.png" width="200"/>
+</p>
+
+
 # $ROT — The Rotweiler Token
 
 A decentralized meme experiment built on **BNB Chain**.
