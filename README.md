@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://github.com/TU-USUARIO/rotpaper/blob/main/Rot.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/protocolrot-pixel/ROT/refs/heads/main/Rot.png" width="220" alt="ROTWEILER Logo"/>
 </p>
 
 
