@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/protocolrot-pixel/ROT/refs/heads/main/Rot.png" width="220" alt="ROTWEILER Logo"/>
 <br>
   <strong>CA:</strong> 
-  <a href="https://bscscan.com/address/" target="_blank"></a>
+  <a href="https://bscscan.com/address/0x463cbade6073e730c79432e8c05b121fd3074444" target="_blank">0x463cbade6073e730c79432e8c05b121fd3074444</a>
   
 </p>
 
