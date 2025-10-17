@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/TU-USUARIO/rotpaper/blob/main/Rot.png" width="200"/>
+</p>
 
 
 # $ROT — The Rotweiler Token
